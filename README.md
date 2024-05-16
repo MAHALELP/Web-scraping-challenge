@@ -8,7 +8,7 @@ Part 1: Scrape Titles and Preview Text from Mars News
 
 We'll browse the Mars news site and grab the titles and preview text of articles.
 After that, we'll organize this info into neat dictionaries and lists.
-If you want, we can even save this data in a handy JSON file!
+
 Part 2: Scrape and Analyze Mars Weather Data
 
 Here, we're diving into Mars' temperature data. We'll use Beautiful Soup to scrape it.
